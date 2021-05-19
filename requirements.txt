@@ -1,0 +1,5 @@
+jupyter
+matplotlib
+imutils
+opencv-python
+opencv-contrib-python
